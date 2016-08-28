@@ -7,30 +7,23 @@
 ##View框架总结
 
 
-#####[[已推送]Android View框架总结（九）KeyEvent事件分发机制](
-http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483816&idx=1&sn=e2a35e174bb73026a2ee642a84e46075#rd)
+#####[\[\[已推送\]Android View框架总结（九）KeyEvent事件分发机制\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483816&idx=1&sn=e2a35e174bb73026a2ee642a84e46075#rd)
+
 
 <hr/>
 
-#####[[已推送]Android View框架总结（八）ViewGroup事件分发机制](
-http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483801&idx=1&sn=f34ad366ee37ef791775a84b3c4d26f2#rd)
-
-<hr/>
-
-#####[[已推送]Android View框架总结（八）ViewGroup事件分发机制](
-http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483797&idx=1&sn=c18c95be026359a2c194f1c91d95b301#rd)
+#####[\[\[已推送\]Android View框架总结（八）ViewGroup事件分发机制\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483797&idx=1&sn=c18c95be026359a2c194f1c91d95b301#rd)
 
 <hr/>
 
 
-#####[[已推送]Android View框架总结（六）View布局流程之Draw过程](
-http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483797&idx=1&sn=c18c95be026359a2c194f1c91d95b301#rd)
+#####[\[\[已推送\]Android View框架总结（七）View事件分发机制\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483797&idx=1&sn=c18c95be026359a2c194f1c91d95b301#rd)
+
 
 <hr/>
 
 
-#####[[已推送]Android View框架总结（六）View布局流程之Draw过程](
-http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483780&idx=1&sn=38ef3ac55e550a711a1e76a62001310a#rd)
+#####[\[\[已推送\]Android View框架总结（六）View布局流程之Draw过程\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483780&idx=1&sn=38ef3ac55e550a711a1e76a62001310a#rd)
 
 <hr/>
 
