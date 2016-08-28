@@ -4,7 +4,71 @@
 
 ## 已推送文章列表
 
-###View框架总结(文章中源码均是android 6.0，请知晓)
+###<font color ="#FF6347">插件总结</font>
+
+#####[\[\[已推送\]插件开发之360 DroidPlugin源码分析（五）Service预注册占坑\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483792&idx=1&sn=9abb3b16f46b65608bf71c52a9fce9c0#rd)
+- AndroidMainfest.xml中概览
+- Service中关键方法被hook时机
+- startService被hook
+- 瞒天过海流程图
+- 认识ServiceManager
+
+---
+
+#####[\[\[已推送\]插件开发之360 DroidPlugin源码分析（四）Activity预注册占坑\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483787&idx=1&sn=f0110e88e5c817bfb2ee12f25896eb76#rd)
+- AndroidMainfest.xml中概览
+- Activity中关键方法被hook时机
+- startActivity被hook
+- handelPerformActivity被hook
+- Activity预注册占坑整体流程图
+- 瞒天过海，冒充真实身份，欺骗AMS
+
+---
+
+#####[\[\[已推送\]插件占坑，四大组件动态注册前奏（三） 系统BroadCast的注册发送流程\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483766&idx=1&sn=9bceb7c35295a72389cf66c6a3e7bb5b#rd)
+
+---
+
+
+#####[\[\[已推送\]插件占坑，四大组件动态注册前奏（二） 系统Service的启动流程\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483763&idx=1&sn=9e922c1d34373d2f93203f2e0863c491#rd)
+
+---
+
+#####[\[\[已推送\]插件占坑，四大组件动态注册前奏（一） 系统Activity的启动流程\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483757&idx=1&sn=3b82c91b68a6073e03a8cbee53cf635a#rd)
+
+---
+
+#####[\[\[已推送\]插件开发之360 DroidPlugin源码分析（三）Binder代理\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483718&idx=1&sn=c8785c9196a2be9b0e5890a5b43883c0#rd)
+- Hook机制中Binder代理类关系图
+- Hook机制中Binder代理时序图
+- MyServiceManager
+- ServiceManagerCacheBinderHook
+- ServiceManagerBinderHook
+- BinderHook
+
+---
+
+#####[\[\[已推送\]插件开发之360 DroidPlugin源码分析（二）Hook机制\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483714&idx=1&sn=55cee6a7f5871d3c4d14c0c87409d688#rd)
+- Hook机制的包结构关系
+- Hook机制的类图关系
+- Hook机制的时序图关系
+- Manifest权制申请
+- 基类Hook做了什么？
+- HookedMethodHandler
+- 基类BaseHookHandle和Hook有什么关系？
+- ProxyHook能干什么？
+- 实例-如何hook IPackageManager
+
+---
+
+#####[\[\[已推送\]插件开发之360 DroidPlugin源码分析（一）初识\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483714&idx=2&sn=1f293aa4330c02249add70f7f90c82dd#rd)
+- DroidPlugin是什么？
+- DroidPlugin的优缺点？
+- DroidPlugin的的基本原理是什么？
+
+---
+
+###<font color ="#FF6347">View框架总结</font>
 
 
 #####[\[\[已推送\]Android View框架总结（九）KeyEvent事件分发机制\]](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483816&idx=1&sn=e2a35e174bb73026a2ee642a84e46075#rd)
