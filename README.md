@@ -4,7 +4,57 @@
 
 ## 已推送文章列表
 
-#####[[已推送]插件前奏-android黑科技 hook介绍](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483702&idx=2&sn=7e57cc04ae21b02c602a91119054e02e#rd)
+##View框架总结
+
+
+#####[[已推送]Android View框架总结（九）KeyEvent事件分发机制](
+http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483816&idx=1&sn=e2a35e174bb73026a2ee642a84e46075#rd)
+
+<hr/>
+
+#####[[已推送]Android View框架总结（八）ViewGroup事件分发机制](
+http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483801&idx=1&sn=f34ad366ee37ef791775a84b3c4d26f2#rd)
+
+<hr/>
+
+#####[[已推送]Android View框架总结（八）ViewGroup事件分发机制](
+http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483797&idx=1&sn=c18c95be026359a2c194f1c91d95b301#rd)
+
+<hr/>
+
+
+#####[[已推送]Android View框架总结（六）View布局流程之Draw过程](
+http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483797&idx=1&sn=c18c95be026359a2c194f1c91d95b301#rd)
+
+<hr/>
+
+
+#####[[已推送]Android View框架总结（六）View布局流程之Draw过程](
+http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483780&idx=1&sn=38ef3ac55e550a711a1e76a62001310a#rd)
+
+<hr/>
+
+
+#####[[已推送]Android View框架总结（五）View布局流程之Layout](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483770&idx=1&sn=fb8e51d61e457fd80598216035e6a484#rd)
+
+<hr/>
+
+
+#####[[已推送]Android View框架总结（四）View布局流程之Measure](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483760&idx=1&sn=a4ad257255548ddba7451a773044df8c#rd)
+
+<hr/>
+
+
+#####[[已推送]Android View框架总结（三）View工作原理](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483751&idx=1&sn=b620ccfbe68b5093808f3dafbb507ba1#rd)
+
+<hr/>
+
+
+#####[[已推送]Android View框架总结（二）View焦点](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483746&idx=1&sn=ebfa9f14ff710e432e0c68c3da6d5fd3#rd)
+
+<hr/>
+
+#####[[已推送]Android View框架总结（一）](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483702&idx=1&sn=1ae20f8dbd38cbfa02ab3a7512da6a46#rd)
 
 <hr/>
 
@@ -18,7 +68,7 @@
 <hr/>
 
 
-#####[[已推送]如何优化你的布局层级结构之RelativeLayout和LinearLayout及FrameLayout性能分析（一）](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483674&idx=1&sn=1b40efb15049f4f5555a8d8be235cfe5#rd)
+#####[[已推送]早期微信抢红包插件项目分享(红包精灵源码)](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247483710&idx=1&sn=83c326510ad99543c7aea693ce9f174e#rd)
 
 <hr/>
 
@@ -38,7 +88,7 @@
 
 <img  src="http://img.my.csdn.net/uploads/201607/31/1469961798_9398.jpg" width="200px"/>
 
-``` java
+``` xml
 MIT License
 
 Copyright (c) 2016 hejunlin
