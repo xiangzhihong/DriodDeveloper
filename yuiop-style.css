@@ -1,0 +1,28 @@
+/* Elements----------------------------------------*/
+* {
+	margin: 0;
+	padding: 0;
+	outline: 0;
+}
+.side-bar a,.chat-tips i {
+	background-image: url(http://img.my.csdn.net/uploads/201608/31/1472611328_9212.png);
+	background-repeat: no-repeat;
+}
+/*右侧悬浮icon*/
+.side-bar {
+	width: 200px;
+	position: fixed;
+	bottom: 0px;
+	right: 100px;
+	font-size: 0;
+	line-height: 0;
+	z-index: 100;
+}
+.side-bar a {
+	width: 300px;
+	height: 328px;
+	display: inline-block;
+	margin-bottom: 2px;
+}
+
+
